@@ -2,18 +2,34 @@
 ## Exercise showcase:
 
 ### Exercise 1  
-![Link to exercise](./images/E1.gif)  
+
+<img src='./images/E1.gif' style="width:500px" />
+
 [View code here](./E1/)
+
 ---
-### Exercise 2
-![Link to exercise](./images/E2.gif)  
-[View code here](./E2/)  
+
+### Exercise 2  
+
+<img src='./images/E2.gif' style="width:500px" />
+
+[View code here](./E2/)
+
 ---
-### Exercise 3
-![](./images/E3.gif)  
+
+### Exercise 3  
+
+<img src='./images/E3.gif' style="width:500px" />
+
 [View code here](./E3/)
+
 ---
-### Exercise 4
-![](./images/E4.gif)  
+
+### Exercise 4  
+
+<img src='./images/E4.gif' style="width:500px" />
+
 [View code here](./E4/)
+
 ---
+
