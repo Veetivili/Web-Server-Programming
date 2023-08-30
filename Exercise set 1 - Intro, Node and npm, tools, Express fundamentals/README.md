@@ -1,5 +1,3 @@
-
-
 ## Exercise showcase:
 
 ### Exercise 1  
