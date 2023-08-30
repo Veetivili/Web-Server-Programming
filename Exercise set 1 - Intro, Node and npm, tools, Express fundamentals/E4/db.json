@@ -1,0 +1,28 @@
+{
+  "albums": [
+    {
+      "id": 2,
+      "artist": "Steely Dan",
+      "title": "Aja",
+      "year": 1977,
+      "genre": "Jazz Rock",
+      "tracks": 7
+    },
+    {
+      "id": 3,
+      "artist": "Miles Davis",
+      "title": "Kind of Blue",
+      "year": 1959,
+      "genre": "Jazz",
+      "tracks": 5
+    },
+    {
+      "artist": "All That Remains",
+      "title": "Overcome",
+      "year": 2004,
+      "genre": "Melodic metalcore",
+      "tracks": 11,
+      "id": 4
+    }
+  ]
+}
