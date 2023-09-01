@@ -1,17 +1,30 @@
-### Node Express template project
 
-This project is based on a GitLab [Project Template](https://docs.gitlab.com/ee/gitlab-basics/create-project.html).
+## Web Server Programming: Exercise diary
 
-Improvements can be proposed in the [original project](https://gitlab.com/gitlab-org/project-templates/express).
+### 01.09.2023
 
-### CI/CD with Auto DevOps
+**Veeti Hakala [AB0197]**  
 
-This template is compatible with [Auto DevOps](https://docs.gitlab.com/ee/topics/autodevops/).
+[Repo root](https://gitlab.labranet.jamk.fi/web-server-programming/exercises)
 
-If Auto DevOps is not already enabled for this project, you can [turn it on](https://docs.gitlab.com/ee/topics/autodevops/#enabling-auto-devops) in the project settings.
+**Exercise points:** 14  
+**Points available:** 150  
+**14/150 = >** 0 %
 
-### Developing with Gitpod
+-----------------
 
-This template has a fully-automated dev setup for [Gitpod](https://docs.gitlab.com/ee/integration/gitpod.html).
+### Exercise set 1 - Introduction and Node.js fundamentals
 
-If you open this project in Gitpod, you'll get all Node dependencies pre-installed and Express will open a web preview.
+[Exercise Repository](https://gitlab.labranet.jamk.fi/web-server-programming/exercises/-/tree/master/Exercise%20set%201%20-%20Intro%2C%20Node%20and%20npm%2C%20tools%2C%20Express%20fundamentals)
+
+**Task 1:** 3/3 points - Everything is working.
+
+**Task 2:** 3/3 points - Everything is working.
+
+**Task 3:** 4/4 points - Everything is working.
+
+**Task 4:** 4/4 points - Everything is working.
+
+**total 14/14**
+
+------------------
