@@ -1,15 +1,15 @@
 
 ## Web Server Programming: Exercise diary
 
-### 01.09.2023
+### 03.09.2023
 
 **Veeti Hakala [AB0197]**  
 
 [Repo root](https://gitlab.labranet.jamk.fi/web-server-programming/exercises)
 
-**Exercise points:** 14  
+**Exercise points:** 29  
 **Points available:** 150  
-**14/150 = >** 0 %
+**29/150 = >** 0 %
 
 -----------------
 
@@ -26,5 +26,21 @@
 **Task 4:** 4/4 points - Everything is working.
 
 **total 14/14**
+
+------------------
+
+### Exercise set 2 - Express router, application structure
+
+[Exercise Repository](https://gitlab.labranet.jamk.fi/web-server-programming/exercises/-/tree/master/Exercise%20set%202%20-%20Express%20router%2C%20application%20structure)
+
+**Task 1:** 4/4 points - Everything is working.
+
+**Task 2:** 4/4 points - Everything is working.
+
+**Task 3:** 3/3 points - Everything is working.
+
+**Task 4:** 4/4 points - Everything is working.
+
+**total 15/15**
 
 ------------------
