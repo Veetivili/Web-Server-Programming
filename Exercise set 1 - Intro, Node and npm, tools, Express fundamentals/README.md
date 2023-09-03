@@ -85,7 +85,7 @@ server.listen(port);
 
 ### Exercise 4  
 
-<img src='./images/E1.gif' width="600" />
+<img src='./images/E4.gif' width="600" />
 
 [View code here](./E4/)
 
