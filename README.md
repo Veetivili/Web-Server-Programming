@@ -7,9 +7,9 @@
 
 [Repo root](https://gitlab.labranet.jamk.fi/web-server-programming/exercises)
 
-**Exercise points:** 29  
+**Exercise points:** 43  
 **Points available:** 150  
-**29/150 = >** 0 %
+**43/150 = >** 0 %
 
 -----------------
 
@@ -42,5 +42,21 @@
 **Task 4:** 4/4 points - Everything is working.
 
 **total 15/15**
+
+------------------
+
+### Exercise set 3 - MongoDB
+
+[Exercise Repository](https://gitlab.labranet.jamk.fi/web-server-programming/exercises)
+
+**Task 1** 1/1 points - Everything OK.  
+
+**Task 2** 2/2 points - Everything OK.  
+
+**Task 3** 4/4 points - Everything OK.  
+
+**Task 4** 7/7 points - Everything OK.  
+
+**total 14/14**
 
 ------------------
