@@ -1,0 +1,159 @@
+/* Base reset styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px; 
+}
+
+h1 {
+    padding: 20px 0;
+    font-size: 2em; 
+    border-bottom: 2px solid #ccc; 
+    margin-bottom: 20px;
+    color: #2c3e50;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-weight: 500;
+    font-size: 1.5em; 
+}
+
+
+.album {
+    padding: 10px 0; 
+    border-bottom: 1px solid #ddd; 
+}
+
+.album-name, .album-artist, .album-length, .album-price {
+    font-size: 1.1em;
+    margin-bottom: 5px; 
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 20px; 
+}
+
+.col {
+    flex: 1; 
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.col1 {
+    background-color: #fff;
+    flex: -1;
+    padding: 20px;
+    max-height: 700px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+input[type=text], input[type=number] {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0; 
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    transition: border-color 0.3s;
+}
+
+input[type=text]:focus, input[type=number]:focus {
+    border-color: #4CAF50;
+    outline: none;
+}
+
+button[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button[type=submit]:hover {
+    background-color: #388e3c;
+}
+
+
+
+.result {
+    list-style-type: none; 
+    padding-left: 0;
+}
+
+.result li {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff; 
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); 
+    transition: transform 0.2s, box-shadow 0.2s; 
+}
+
+.result li:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.15); 
+}
+
+.album-id {
+    color: rgb(8, 47, 104);
+    border-bottom: solid 2px #ccc;
+    padding-bottom: 3px;
+    margin-bottom: 15px;
+    max-width: 50px;
+}
+
+.album-artist {
+    font-size: 1.5em; 
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.album-title {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    color: #2c3e50; 
+}
+
+.album-detail {
+    font-size: 0.9em;
+    color: #6d7575; 
+    margin-bottom: 5px; 
+}
+
+
+@media screen and (max-width: 768px) {
+    .result li {
+        padding: 15px; 
+    }
+
+    .album-title {
+        font-size: 1.3em; 
+    }
+
+    .album-artist {
+        font-size: 1.1em;
+    }
+
+    .col {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+
