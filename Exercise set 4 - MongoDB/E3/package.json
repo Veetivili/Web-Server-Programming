@@ -1,0 +1,23 @@
+{
+  "name": "02-router",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.17.1",
+    "mongoose": "^6.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.33.0",
+    "nodemon": "^2.0.7"
+  },
+  "description": ""
+}
