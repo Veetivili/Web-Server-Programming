@@ -1,6 +1,6 @@
 ## Exercise showcase:
 
-### Exercise set 3 - Express router, application structure
+### Exercise set 3 - MongoDB
 ---
 
 ### Exercise 1
