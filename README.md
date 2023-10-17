@@ -1,14 +1,14 @@
 ## Web Server Programming: Exercise diary
 
-### 03.09.2023
+### 17.10.2023
 
 **Veeti Hakala [AB0197]**  
 
 [Repo root](https://gitlab.labranet.jamk.fi/web-server-programming/exercises)
 
-**Exercise points:** 54  
+**Exercise points:** 68  
 **Points available:** 150  
-**54/150 = >** 0 %
+**68/150 = >** 0 %
 
 -----------------
 
@@ -73,5 +73,23 @@
 **Task 3** 4/4 points -   
 
 **total 11/11**
+
+------------------
+
+#### Exercise set 5 - API design
+
+[Exercise Repository](https://gitlab.labranet.jamk.fi/web-server-programming/exercises)
+
+**Task 1** 2/2 points -   
+
+**Task 2** 2/2 points -   
+
+**Task 3** 3/3 points -  
+
+**Task 4** 4/4 points - 
+
+**Task 5** 3/3 points - 
+
+**total 14/14**
 
 ------------------
