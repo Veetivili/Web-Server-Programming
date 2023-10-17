@@ -1,0 +1,84 @@
+[
+    {
+        "id": "1",
+        "artist": "Metallica",
+        "title": "Master of Puppets",
+        "year": 1986,
+        "genre": "trash metal",
+        "tracks": 10
+    },
+    {
+        "id": "2",
+        "artist": "Led Zeppelin",
+        "title": "IV",
+        "year": 1971,
+        "genre": "rock",
+        "tracks": 8
+    },
+    {
+        "id": "3",
+        "artist": "Pink Floyd",
+        "title": "Dark Side of the Moon",
+        "year": 1973,
+        "genre": "progressive rock",
+        "tracks": 10
+    },
+    {
+        "id": "4",
+        "artist": "The Beatles",
+        "title": "Abbey Road",
+        "year": 1969,
+        "genre": "pop rock",
+        "tracks": 17
+    },
+    {
+        "id": "5",
+        "artist": "Nirvana",
+        "title": "Nevermind",
+        "year": 1991,
+        "genre": "grunge",
+        "tracks": 12
+    },
+    {
+        "id": "6",
+        "artist": "Queen",
+        "title": "A Night at the Opera",
+        "year": 1975,
+        "genre": "rock",
+        "tracks": 12
+    },
+    {
+        "id": "7",
+        "artist": "AC/DC",
+        "title": "Back in Black",
+        "year": 1980,
+        "genre": "hard rock",
+        "tracks": 10
+    },
+    {
+        "id": "8",
+        "artist": "Radiohead",
+        "title": "OK Computer",
+        "year": 1997,
+        "genre": "alternative rock",
+        "tracks": 12
+    },
+    {
+        "id": "9",
+        "artist": "Bob Dylan",
+        "title": "Highway 61 Revisited",
+        "year": 1965,
+        "genre": "folk rock",
+        "tracks": 9
+    },
+    {
+        "id": "10",
+        "artist": "The Rolling Stones",
+        "title": "Sticky Fingers",
+        "year": 1971,
+        "genre": "rock",
+        "tracks": 10
+    }
+]
+
+
